@@ -18,3 +18,7 @@ This script allows you to see how many bullets do you have in your weapon withou
 - Add hnl_howmanybullets in your resource folder
 - Ensure <b>hnl_howmanybullets</b>
 - Restart server
+
+
+# License
+```You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/```
